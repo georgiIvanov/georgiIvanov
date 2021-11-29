@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Banner](https://i.imgur.com/fUrSArx.mp4)
+![Banner](readme_profile.gif)
 
 
 <!--
