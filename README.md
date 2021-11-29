@@ -1,5 +1,9 @@
-### Hi there 👋
-![Banner](readme_profile.gif)
+<img align="right" width="280" height="210" src="readme_profile.gif">
+I make a living out of writing clean code. ✨
+
+<!--
+Gif credit: https://dribbble.com/filipjoos
+-->
 
 
 <!--
