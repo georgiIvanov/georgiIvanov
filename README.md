@@ -1,4 +1,5 @@
 <img align="right" width="280" height="210" style="margin-right=120px" src="readme_profile.gif">
+### Hey, I'm Georgi 🧑🏼‍💻
 I make a living out of writing clean code. ✨
 
 <!--
