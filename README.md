@@ -1,4 +1,4 @@
-<div margin-right=120><img align="right" width="280" height="210" src="readme_profile.gif"></div>
+<img align="right" width="280" height="210" style="margin-right=120" src="readme_profile.gif">
 I make a living out of writing clean code. ✨
 
 <!--
