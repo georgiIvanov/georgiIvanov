@@ -1,4 +1,4 @@
-<img align="right" width="280" height="210" style="margin-right=120px" src="readme_profile.gif">
+<img align="right" width="280" height="210" style="margin-right=120px" style="padding=60px" src="readme_profile.gif">
 <h3>Hey, I'm givn 👋 🧑🏼‍💻</h3>
 
 <p>
