@@ -2,19 +2,17 @@
 <h3>Hey, I'm givn 👋 🧑🏼‍💻</h3>
 
 <p>
-  I'm a Trad-fi industry veteran turned Web3 security specialist 🪄
+  I'm a Trad-fi industry veteran turned Web3 security specialist  🪄
 </p>
 
 👇
 <p>
-  Check out my Solidity logging <a href="https://github.com/georgiIvanov/solc-log">solc-log</a> that helps with formatting <b>big numbers</b> and <b>various data types</b>. ⌨️ 
+  Check out my Solidity logging tool <a href="https://github.com/georgiIvanov/solc-log">solc-log</a> that helps with formatting <b>big numbers</b> and <b>various data types</b> on the <b>EVM</b>.  ⌨️ 
 </p>
-
 
 <!--
 Gif credit: https://dribbble.com/filipjoos
 -->
-
 
 <!--
 **georgiIvanov/georgiIvanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
